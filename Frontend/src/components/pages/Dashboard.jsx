@@ -1,4 +1,3 @@
-import Navbar from "../layout/Navbar";
 import BackgroundAnimation from "../layout/BackgroundAnimation";
 import InputPanel from "../dashboard/InputPanel";
 import CarbonChart from "../dashboard/CarbonChart";
